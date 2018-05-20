@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8274b64842b089a0c54d2bd6a06f1eed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd933fcc228c7e50046115eebfa0ec29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/38cd4066ca2527817739cf90aec5ffa5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db9a60c92ee4d6dcf87fabe59aca4b0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a66c4575960993c9c9291e53857df3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fab1cbe94080a52145e47d88b6830da1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6fd36856eb995c00b253e70a68e164ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/acb716211074515ff194ce213a3d1d6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f253f03ce578256b575fa8c86d0866b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/346d8c813cd3217170e9c66fc918523b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6ce2fb15661a8669a78afb26129de04e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cbf93aa8f8b270452fbcdfd7f8827d69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6cf38cfb0d05fc481210b8f82cc2e7be/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/83a4c7e2e6da9f5622755a938f20923a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ed53e0f0d39305ab460a6ea6a7f6865b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a693da8a6479d3299039091de1abc15/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8dc0e37feea23c09a346b106ae2d16e0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:3:7-32
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:6:2-40
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:6:2-40
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:6:2-40
+MERGED from [com.android.support:design:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8274b64842b089a0c54d2bd6a06f1eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8274b64842b089a0c54d2bd6a06f1eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd933fcc228c7e50046115eebfa0ec29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fd933fcc228c7e50046115eebfa0ec29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/38cd4066ca2527817739cf90aec5ffa5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/38cd4066ca2527817739cf90aec5ffa5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db9a60c92ee4d6dcf87fabe59aca4b0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db9a60c92ee4d6dcf87fabe59aca4b0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a66c4575960993c9c9291e53857df3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a66c4575960993c9c9291e53857df3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fab1cbe94080a52145e47d88b6830da1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fab1cbe94080a52145e47d88b6830da1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6fd36856eb995c00b253e70a68e164ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6fd36856eb995c00b253e70a68e164ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/acb716211074515ff194ce213a3d1d6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/acb716211074515ff194ce213a3d1d6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f253f03ce578256b575fa8c86d0866b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f253f03ce578256b575fa8c86d0866b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/346d8c813cd3217170e9c66fc918523b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/346d8c813cd3217170e9c66fc918523b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6ce2fb15661a8669a78afb26129de04e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6ce2fb15661a8669a78afb26129de04e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cbf93aa8f8b270452fbcdfd7f8827d69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cbf93aa8f8b270452fbcdfd7f8827d69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6cf38cfb0d05fc481210b8f82cc2e7be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/barora/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6cf38cfb0d05fc481210b8f82cc2e7be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/83a4c7e2e6da9f5622755a938f20923a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/83a4c7e2e6da9f5622755a938f20923a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ed53e0f0d39305ab460a6ea6a7f6865b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ed53e0f0d39305ab460a6ea6a7f6865b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a693da8a6479d3299039091de1abc15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a693da8a6479d3299039091de1abc15/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8dc0e37feea23c09a346b106ae2d16e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8dc0e37feea23c09a346b106ae2d16e0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:6:2-40
+INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:6:2-40
+	android:targetSdkVersion
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:6:2-40
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:6:12-37
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:8:2-68
+	android:name
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:8:19-65
+application
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:10:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/38cd4066ca2527817739cf90aec5ffa5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/barora/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/38cd4066ca2527817739cf90aec5ffa5/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:10:48-80
+	android:icon
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:10:18-47
+activity#wpam.recognizer.ConfigureActivity
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:screenOrientation
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:13:9-45
+	android:label
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:11:53-85
+	android:theme
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:12:13-44
+	android:name
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:11:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:16:27-74
+activity#wpam.recognizer.MainActivity
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:19:9-20:20
+	android:label
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:19:47-75
+	android:name
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:19:19-46
+activity#wpam.recognizer.HistoryActivity
+ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:21:9-22:14
+	android:label
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:21:50-81
+	android:name
+		ADDED from /Users/barora/AndroidStudioProjects/LatencyApplication/dtmf-decoder-master/app/src/main/AndroidManifest.xml:21:19-49

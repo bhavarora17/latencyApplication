@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent" android:orientation="vertical"
+	xmlns:tools="http://schemas.android.com/tools"
+	>
+
+	<LinearLayout android:layout_height="wrap_content" android:id="@+id/linearLayout1" android:layout_width="match_parent">
+	    <Button android:text="@string/start" android:id="@+id/stateButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    <Button android:text="@string/clear" android:id="@+id/clearButton"  android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	</LinearLayout>
+	
+	<ImageView android:id="@+id/spectrum" android:layout_width="match_parent" android:layout_height="100px"></ImageView>
+	
+	<EditText android:text="" android:id="@+id/recognizeredText" android:layout_height="wrap_content" android:layout_width="match_parent"></EditText>
+	
+	<TableLayout android:layout_height="wrap_content" android:id="@+id/tableLayout1" android:layout_width="match_parent">
+		<TableRow android:id="@+id/tableRow0" android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_weight="1">
+	    	<Button android:text="1" android:id="@+id/button1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    	<Button android:text="2" android:id="@+id/button2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    	<Button android:text="3" android:id="@+id/button3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+		</TableRow>
+		<TableRow android:id="@+id/tableRow1" android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_weight="1">
+	    	<Button android:text="4" android:id="@+id/button4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    	<Button android:text="5" android:id="@+id/button5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    	<Button android:text="6" android:id="@+id/button6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+		</TableRow>
+		<TableRow android:id="@+id/tableRow2" android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_weight="1">
+	    	<Button android:text="7" android:id="@+id/button7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    	<Button android:text="8" android:id="@+id/button8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    	<Button android:text="9" android:id="@+id/button9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+		</TableRow>
+		<TableRow android:id="@+id/tableRow3" android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_weight="1">
+	    	<Button android:text="*" android:id="@+id/buttonAsterisk" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    	<Button android:text="0" android:id="@+id/button0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+	    	<Button android:text="#" android:id="@+id/buttonHash" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></Button>
+		</TableRow>
+	</TableLayout>
+
+
+	<LinearLayout
+		android:id="@+id/sender_form"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		tools:layout_editor_absoluteX="0dp"
+		tools:layout_editor_absoluteY="5dp">
+
+
+		<TextView
+			android:id="@+id/lengthTone"
+			android:layout_width="417dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:gravity="center"
+			android:text="@string/textEnterLengthOfTone"
+			android:textColor="@android:color/black"
+			android:textSize="14dp"></TextView>
+
+		<EditText
+			android:id="@+id/length_of_tone_to_be_sent"
+			android:layout_width="157dp"
+			android:layout_height="wrap_content"
+			android:inputType="text" />
+
+
+		<TextView
+			android:id="@+id/waitLength"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:gravity="center"
+			android:text="@string/textWaitTime"
+			android:textColor="@android:color/black"
+			android:textSize="14dp"></TextView>
+
+		<EditText
+			android:id="@+id/wait_time_after_the_tone"
+			android:layout_width="158dp"
+			android:layout_height="wrap_content"
+			android:inputType="text" />
+
+
+		<TextView
+			android:id="@+id/toneHearLength"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:layout_marginLeft="10dp"
+			android:layout_marginRight="10dp"
+			android:gravity="center"
+			android:text="@string/textLengthToneToHear"
+			android:textColor="@android:color/black"
+			android:textSize="14dp"></TextView>
+
+		<EditText
+			android:id="@+id/length_of_tone_to_heard"
+			android:layout_width="159dp"
+			android:layout_height="wrap_content"
+			android:inputType="text" />
+
+		<Button
+			android:id="@+id/btnStartButton"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/btnStartSender" />
+
+	</LinearLayout>
+
+</LinearLayout>
